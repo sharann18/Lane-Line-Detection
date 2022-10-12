@@ -1,0 +1,5 @@
+References:
+
+1. https://www.youtube.com/watch?v=eLTLtUVuuy4
+
+2. https://towardsdatascience.com/a-deep-dive-into-lane-detection-with-hough-transform-8f90fdd1322f
